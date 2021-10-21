@@ -75,7 +75,7 @@ Please join Telegram [Join Telegram](https://t.me/hackintash), if you have any q
 
 ## License
 
-The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+The article is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Credits
 
